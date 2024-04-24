@@ -1,10 +1,9 @@
-# Kurulum FantasticShop v30 Hunting Bot
 
 - Öncelikle kurulum için **Java** ve **Node.js** yi indirmeniz gerekmektedir.
 - Java ve Node.js yi kurduktan sonra klasördeki `dowland.cmd` yi başlatınız.
 - Modüller indikten sonra otomatik olarak `baslat.cmd` başlar.
 
-# Kullanım discord.gg/uranyum sorun olursa ticket açınız
+
 
 1. Start.cmd başladıktan sonra **Yeni Hesap Ekle (Token ile Giriş Yap)** seçeneğini seçip token inizi yazıp Enter`a basınız.
 2. OwO Hunt Botunun çalışacağı sunucuyu seçip Enter`a basınız.
@@ -32,9 +31,4 @@
 
 9. OwO Hunt Botunuz artık çalışıyor! Birden fazla hesap açmak isterseniz aynı şekilde tekrar CMD açarak yapabilirsiniz!
 
-# Değerlendirme
-
-Siparişi onaylamak ve değerlendirmek için lütfen [bu bağlantıya](https://www.itemsatis.com/bildirimler.html) tıklayınız. İlginiz için teşekkürler, iyi günler!
-
-Mit Licance : FantasticShop & Taha
 
